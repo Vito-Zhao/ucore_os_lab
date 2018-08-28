@@ -20,5 +20,5 @@ a.out
 chytesting
 disk0
 *.orig
-*.srctr*
+*.srctrl*
 .idea/
